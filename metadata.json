@@ -1,0 +1,6 @@
+{
+  "name": "Ademola Real Estate",
+  "description": "Modern & Minimalist Luxury Real Estate in Nigeria (Lagos, Abuja, Port Harcourt)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
